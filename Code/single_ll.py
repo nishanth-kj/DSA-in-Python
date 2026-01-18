@@ -6,4 +6,11 @@ class Node:
         
 class SinglyLinkedList:
     def __init__:
+        return Node()
         
+    def insert():
+        
+        
+        
+if __name__=="__main__":
+    sll = SinglyLinkedList()
